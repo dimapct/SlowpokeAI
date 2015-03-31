@@ -1,0 +1,15 @@
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\bin\Debug\SlowpokeAISandbox.exe.config
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\bin\Debug\SlowpokeAISandbox.exe
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\bin\Debug\SlowpokeAISandbox.pdb
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\SlowpokeAISandbox.csprojResolveAssemblyReference.cache
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\View\MainWindow.g.cs
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\App.g.cs
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\SlowpokeAISandbox_MarkupCompile.cache
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\SlowpokeAISandbox_MarkupCompile.lref
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\View\MainWindow.baml
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\SlowpokeAISandbox.g.resources
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\SlowpokeAISandbox.Properties.Resources.resources
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\SlowpokeAISandbox.csproj.GenerateResource.Cache
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\SlowpokeAISandbox.exe
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\SlowpokeAISandbox.pdb
+c:\users\dimapct\documents\visual studio 2013\Projects\SlowpokeAISandbox\SlowpokeAISandbox\obj\Debug\GeneratedInternalTypeHelper.g.cs
